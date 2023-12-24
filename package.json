@@ -1,0 +1,15 @@
+{
+  "name": "desktop-pages",
+  "version": "1.0.0",
+  "description": "A preset manager for desktop configuration, including wallpaper, shortcuts, taskbar, and automatic app startup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jay Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
